@@ -1,5 +1,7 @@
 # Executive Summary:
 This project aims to classify mushrooms as either edible or poisonous based on various physical characteristics. A machine learning model was developed using the LightGBM algorithm, which achieved high accuracy in predicting mushroom edibility.
+![DALL·E 2024-09-19 15 52 26 - A detailed illustration of a mushroom classification process, with various mushrooms of different colors and shapes, some labeled 'poisonous' and othe](https://github.com/user-attachments/assets/53f0a0a4-ce6d-4833-b64c-86b7fce1a9d8)
+
 
 # Data Overview:
 The dataset consists of training and test sets, with various features describing mushroom attributes such as cap shape, cap surface, gill attachment, and stem characteristics. The target variable is 'class', indicating whether a mushroom is **edible ('e')** or **poisonous ('p')**.

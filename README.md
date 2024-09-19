@@ -17,46 +17,48 @@ Several visualizations were created to understand the data distribution and rela
 
    These plots showed the distribution of each category within features, split by the target class. For example, certain cap shapes or gill attachments might be more common in poisonous or edible mushrooms.
 
-![bargraph17](https://github.com/user-attachments/assets/3539381b-6a50-4854-98f6-13c1e030ef3b)
-![bargraph16](https://github.com/user-attachments/assets/8bbf1228-3b9d-47c6-9375-e9cfb9245804)
-![bargraph15](https://github.com/user-attachments/assets/8dcc23cb-d73b-48be-9ce2-c5497cecc2d9)
-![bargraph14](https://github.com/user-attachments/assets/07b1cad0-027c-40c4-8355-40cdd49ef963)
-![bargraph13](https://github.com/user-attachments/assets/66806d8d-6882-40ac-9337-3fc8e8be24a5)
-![bargraph12](https://github.com/user-attachments/assets/00ad9d11-2ba2-4cd9-b79d-ca1a3f2766d7)
-![bargraph11](https://github.com/user-attachments/assets/ab9ff79f-1776-4b8e-9f17-81a742160345)
-![bargraph10](https://github.com/user-attachments/assets/c6c65b62-cf6b-4f08-a0c5-972285b4c850)
-![bargraph9](https://github.com/user-attachments/assets/a3bc00a4-9e20-4cf1-907c-b494cc94dcda)
-![bargraph8](https://github.com/user-attachments/assets/c552df10-334d-4212-afe5-d8ad7352f892)
-![bargraph7](https://github.com/user-attachments/assets/7ca90d36-d563-4bf3-bf76-5d86bcdca0c6)
-![bargraph5](https://github.com/user-attachments/assets/47951f8c-43f6-4a30-8329-a7655d43cdd4)
-![bargraph4](https://github.com/user-attachments/assets/a854fb45-03a4-4dbd-9eb3-c949b5e1447f)
-![bargraph3](https://github.com/user-attachments/assets/5ad2baea-40c3-4b18-8bf9-65f61fa45173)
-![bargraph2](https://github.com/user-attachments/assets/b626cfb9-3319-43e2-9e7d-80e46f28dc68)
-![bargraph1](https://github.com/user-attachments/assets/4139546e-3489-43a1-a372-6a5220aff980)
+![bargraph17](https://github.com/user-attachments/assets/6384f23d-c72b-4080-9a04-ddbf95d92161)
+![bargraph16](https://github.com/user-attachments/assets/254d5ace-2a2b-41b0-a2f2-54c15e9685b8)
+![bargraph15](https://github.com/user-attachments/assets/5b518200-770e-4906-8a4f-0694fcbd7a1d)
+![bargraph14](https://github.com/user-attachments/assets/16e086ce-0d9a-47e5-8223-249e15d56714)
+![bargraph13](https://github.com/user-attachments/assets/8d476799-42b0-4056-b592-fc7951f79681)
+![bargraph12](https://github.com/user-attachments/assets/722cd4f9-c756-49fc-81bf-f3919b2f0291)
+![bargraph11](https://github.com/user-attachments/assets/471cfb13-b65f-4616-bef9-c121f0971bf9)
+![bargraph10](https://github.com/user-attachments/assets/d0ec5c03-3125-4761-a196-6b3454197f82)
+![bargraph9](https://github.com/user-attachments/assets/3eb68c6c-3f16-4681-839e-ccfd907b1aa4)
+![bargraph8](https://github.com/user-attachments/assets/65ffa32a-b30b-4544-a8da-8557b28a94b6)
+![bargraph7](https://github.com/user-attachments/assets/e3298410-caea-4936-ad5f-b2019fc40acd)
+![bargraph5](https://github.com/user-attachments/assets/d7e56bff-cf0c-4148-845c-96c46de048cb)
+![bargraph4](https://github.com/user-attachments/assets/b8129ca4-c0e3-44c6-9b08-0817c23a0f98)
+![bargraph3](https://github.com/user-attachments/assets/599faf9f-52db-4fd0-9e3a-abe2bb5a4f5e)
+![bargraph2](https://github.com/user-attachments/assets/a1153ed1-10d0-4f61-b00b-80cce8f9849d)
+![bargraph1](https://github.com/user-attachments/assets/4e34e966-c151-4acc-9d0d-a1bd3460fca1)
 
 
 3. **Histograms for numerical features:**
    These plots displayed the distribution of numerical features like cap diameter, showing how they differ between edible and poisonous mushrooms.
-   ![hist3](https://github.com/user-attachments/assets/42ba8e74-ff9f-42d4-adb1-d101b73bd226)
-![hist2](https://github.com/user-attachments/assets/2beb8593-e1a3-4c9f-a258-b98940ec79af)
-![hist1](https://github.com/user-attachments/assets/525d8d2b-9267-417b-a99e-c3a5f8bc5550)
+![hist3](https://github.com/user-attachments/assets/75508f4b-4305-4799-9117-a0232e943838)
+![hist2](https://github.com/user-attachments/assets/15b92c6c-ad06-4dde-ba01-f3db171da263)
+![hist1](https://github.com/user-attachments/assets/e3832044-ace7-448a-afd5-6184d03f45e8)
+
 
 
 5. **Box plots and violin plots for numerical features:**
    These visualizations provided insights into the range and distribution of numerical features for each class, highlighting potential differences between edible and poisonous mushrooms.
-   ![box3](https://github.com/user-attachments/assets/9a78f2a1-810a-41df-91a4-cbf38503149a)
-![box2](https://github.com/user-attachments/assets/387d4bf0-c75e-47b1-926c-ef2828b10d7f)
-![box1](https://github.com/user-attachments/assets/673ee7a5-2124-428c-a385-f899e5a44fe9)
 
-![violin3](https://github.com/user-attachments/assets/a8087ae8-04da-4086-b5d6-9513ab351451)
-![violin2](https://github.com/user-attachments/assets/7d870004-9da6-43ef-970a-aa044b3932b6)
-![violin1](https://github.com/user-attachments/assets/315a6e59-4442-4159-b21c-06424bb9ca3b)
+![violin3](https://github.com/user-attachments/assets/41411bb0-ff31-42e0-a225-9bbcaaa644a1)
+![violin2](https://github.com/user-attachments/assets/d1908e14-7dc9-48cf-8e20-5686fadb1826)
+![violin1](https://github.com/user-attachments/assets/eef9ff56-bbed-447d-8472-8d23d7ea7bd3)
+![box3](https://github.com/user-attachments/assets/fe29d06b-07a6-4cb7-b356-9d63f6948184)
+![box2](https://github.com/user-attachments/assets/b4c22230-6ced-418e-8258-84e11393b9d3)
+![box1](https://github.com/user-attachments/assets/5ff0f5ac-6526-4b1c-8bd8-123410435b38)
 
 
 
 7. **Target distribution plot:**
    This showed the overall balance between edible and poisonous mushrooms in the dataset.
-   ![targetdist](https://github.com/user-attachments/assets/2865d3bb-c2c2-45da-a520-e23641fca2ac)
+
+![targetdist](https://github.com/user-attachments/assets/c179f19e-4be0-4230-9ce9-6f89fbd207e5)
 
 
 # Key observations from these visualizations:
